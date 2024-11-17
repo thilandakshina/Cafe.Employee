@@ -55,7 +55,6 @@ Architecture Overview -- The solution follows Clean Architecture principles, org
 
 ![image](https://github.com/user-attachments/assets/afc889e0-efb7-48e7-b1fd-b92cd061da07)
 
-
 ![image](https://github.com/user-attachments/assets/bd203991-2edd-49a8-ba60-606ac3cad463)
 
 ![image](https://github.com/user-attachments/assets/9b637557-cbab-4b34-8e4a-59feeda2a3a6)
@@ -69,3 +68,8 @@ Architecture Overview -- The solution follows Clean Architecture principles, org
 
 Make sure FE runs http://localhost:3000/ and BE runs https://localhost:5002/
 if any changes please update the program.cs under Cafe.API project and src-> api -> config.js under FE project
+
+## CI/CD Pipeline
+
+![image](https://github.com/user-attachments/assets/b2353da2-a3c2-4692-8177-67dcf66fbc30)
+
